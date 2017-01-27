@@ -1,10 +1,10 @@
 # maven ignore
-target/
-*.jar
-*.war
-*.zip
-*.tar
-*.tar.gz
+# target/
+# *.jar
+# *.war
+# *.zip
+# *.tar
+# *.tar.gz
 
 # eclipse ignore
 .settings/
